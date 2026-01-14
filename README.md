@@ -1,4 +1,4 @@
-📊 A/B Testing Dashboard for E-commerce Conversion Analysis
+📊 **A/B Testing Dashboard for E-commerce Conversion Analysis**
 
 This project presents a complete A/B Testing analysis conducted to evaluate
 the performance of a new landing page (Treatment) against an existing landing
@@ -14,15 +14,25 @@ data-backed decision-making.
 
 AB_Testing_Ecommerce_Conversion/
 │
+
 ├── ab_data.csv
+
 │   # User-level A/B testing dataset
+
 ├── countries.csv
+
 │   # User-to-country mapping dataset
+
 ├── A_B_Testing_Dashboard.pbix
+
 │   # Power BI dashboard file
+
 ├── A_B_Testing_Dashboard_for_Ecommerce_Conversion_Analysis.docx
+
 │   # Final summarized business report
+
 ├── README.md
+
 │   # Project documentation
 
 
