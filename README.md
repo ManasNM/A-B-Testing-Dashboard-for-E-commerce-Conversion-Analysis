@@ -15,19 +15,33 @@ data-backed decision-making.
 AB_Testing_Ecommerce_Conversion/
 
 │
+
 ├── ab_data.csv
+
 │   # User-level A/B testing dataset
+
 │
+
 ├── countries.csv
+
 │   # User-to-country mapping dataset
+
 │
+
 ├── A_B_Testing_Dashboard.pbix
+
 │   # Power BI dashboard file
+
 │
+
 ├── A_B_Testing_Dashboard_for_Ecommerce_Conversion_Analysis.docx
+
 │   # Final summarized business report
+
 │
+
 ├── README.md
+
 │   # Project documentation
 
 
